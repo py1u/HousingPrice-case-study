@@ -1,1 +1,1 @@
-# HousingPrice-case-study
+# HousingPrice Study
